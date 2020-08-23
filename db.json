@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "600",
+      "id": 3
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "300",
+      "id": 5
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": 100,
+      "id": 8
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": "800",
+      "id": 9
+    },
+    {
+      "nombre": "Pedro",
+      "precio": 100,
+      "id": 10
+    }
+  ]
+}
